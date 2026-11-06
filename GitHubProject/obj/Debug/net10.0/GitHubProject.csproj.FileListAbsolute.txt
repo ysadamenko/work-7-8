@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\bin\Debug\net10.0\GitHubProject.exe
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\bin\Debug\net10.0\GitHubProject.deps.json
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\bin\Debug\net10.0\GitHubProject.runtimeconfig.json
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\bin\Debug\net10.0\GitHubProject.dll
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\bin\Debug\net10.0\GitHubProject.pdb
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.dll
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\refint\GitHubProject.dll
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.pdb
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubProject.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\ref\GitHubProject.dll
+C:\Users\Ludmila\Desktop\унік\сем7-8\GitHubProject\GitHubProject\obj\Debug\net10.0\GitHubPr.95F01429.Up2Date
