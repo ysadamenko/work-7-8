@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ludmila\\Desktop\\унік\\сем7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj": {}
+    "C:\\Users\\Ludmila\\Documents\\GitHub\\work-7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ludmila\\Desktop\\унік\\сем7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj": {
+    "C:\\Users\\Ludmila\\Documents\\GitHub\\work-7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ludmila\\Desktop\\унік\\сем7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj",
+        "projectUniqueName": "C:\\Users\\Ludmila\\Documents\\GitHub\\work-7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj",
         "projectName": "GitHubProject",
-        "projectPath": "C:\\Users\\Ludmila\\Desktop\\унік\\сем7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj",
+        "projectPath": "C:\\Users\\Ludmila\\Documents\\GitHub\\work-7-8\\GitHubProject\\GitHubProject\\GitHubProject.csproj",
         "packagesPath": "C:\\Users\\Ludmila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ludmila\\Desktop\\унік\\сем7-8\\GitHubProject\\GitHubProject\\obj\\",
+        "outputPath": "C:\\Users\\Ludmila\\Documents\\GitHub\\work-7-8\\GitHubProject\\GitHubProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ludmila\\AppData\\Roaming\\NuGet\\NuGet.Config",
